@@ -1,0 +1,22 @@
+body {margin-top: 50ox;
+margin-bottom: 50px;
+padding-left: 50px;
+}
+h1 {font-size: 70px;
+text-align: center;
+color:darkred;}
+.only{text-align:center ;
+font-size: 60px;
+color: peru;}
+li{font-size: 30px;}
+p{font-size: 30px;}
+.pic1{width: 300px;
+margin: auto;
+display: block;}
+.pic2{width: 300px;
+margin: auto;
+display: block;}
+.pic3{width: 300px;
+      margin: auto;
+      display: block;}
+      h2{font-size: 50px;}
